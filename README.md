@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roshan Jaiswal</h1>
-<div align="center"><img align="center" alt="Coding" width="500" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW4xY2pxcjVvbWpuZXZpZmRwbWQwYTY3ODI4Znk1NTEwaWFwaWRidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<div align="center"><img align="center" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW4xY2pxcjVvbWpuZXZpZmRwbWQwYTY3ODI4Znk1NTEwaWFwaWRidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
 
 <h3 align="center">A passionate Full Stack Developer and DSA Enthusiast.</h3>
