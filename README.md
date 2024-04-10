@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codecortex&label=Profile%20views&color=0e75b6&style=flat" alt="codecortex" /> </p>
 
-- 🌱 I’m currently learning **Next.js, Blockchain etc**
+- 🌱 I’m currently learning **Next.js, AI/ML etc**
 
 - 👯 I’m looking to collaborate on **open-source projects.**
 
