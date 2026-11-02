@@ -157,18 +157,28 @@ My interests lie at the intersection of **Generative AI, Agentic AI and Software
 
 ## 📊 GitHub Analytics
 
+
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CodeCortex&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Statistics"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCortex&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
+  <img width="49%"
+    src="https://github-stats-extended.vercel.app/api?username=CodeCortex&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
+    alt="GitHub Statistics" />
+  <img width="49%"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=CodeCortex&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=CodeCortex&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+  <img width="70%"
+    src="https://streak-stats.demolab.com?user=CodeCortex&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeCortex&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph"/>
+  <img width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeCortex&theme=tokyonight"
+    alt="GitHub Contribution Activity" />
 </p>
+
 
 ---
 
