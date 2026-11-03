@@ -115,7 +115,7 @@ My interests lie at the intersection of **Generative AI, Agentic AI and Software
 ### 🧰 Developer Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma,vite,ecclipse&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,postman,figma,vite&theme=dark" />
 </p>
 
 ---
