@@ -167,13 +167,6 @@ My interests lie at the intersection of **Generative AI, Agentic AI and Software
     alt="Most Used Languages" />
 </p>
 
-<!-- <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/CodeCortex/CodeCortex/main/assets/repository-stats.svg"
-    width="100%"
-    alt="Public and Private Repository Statistics"
-  />
-</p> -->
 
 <p align="center">
   <img width="70%"
