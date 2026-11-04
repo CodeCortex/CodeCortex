@@ -220,9 +220,6 @@ My interests lie at the intersection of **Generative AI, Agentic AI and Software
   <a href="https://www.instagram.com/codecortexx/">
     <img src="https://img.shields.io/badge/Instagram-@codecortexx-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://wa.me/919508801096">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
 </p>
 
 <p align="center">
