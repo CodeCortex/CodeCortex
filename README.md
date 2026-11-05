@@ -158,29 +158,29 @@ My interests lie at the intersection of **Generative AI, Agentic AI and Software
 ## 📊 GitHub Analytics
 
 
-<p align="center">
+<!-- <p align="center">
   <img width="49%"
     src="https://github-stats-extended.vercel.app/api?username=CodeCortex&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
     alt="GitHub Statistics" />
   <img width="49%"
     src="https://github-stats-extended.vercel.app/api/top-langs?username=CodeCortex&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     alt="Most Used Languages" />
-</p>
+</p> -->
 
 
 <p align="center">
   <img width="70%"
     src="https://streak-stats.demolab.com?user=CodeCortex&theme=tokyonight&hide_border=true"
     alt="GitHub Contribution Streak" />
-</p>
+</p> 
 
 
 
-<!-- <p align="center">
+ <p align="center">
   <img width="100%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeCortex&theme=tokyonight"
     alt="GitHub Contribution Activity" />
-</p> -->
+</p> 
 
 
 ---
