@@ -176,11 +176,11 @@ My interests lie at the intersection of **Generative AI, Agentic AI and Software
 
 
 
-<p align="center">
+<!-- <p align="center">
   <img width="100%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeCortex&theme=tokyonight"
     alt="GitHub Contribution Activity" />
-</p>
+</p> -->
 
 
 ---
